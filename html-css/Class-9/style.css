@@ -7,7 +7,7 @@
 }
 
 .image {
-  width: 200px;
+  width: 100px;
   margin: 30px;
 }
 
@@ -23,4 +23,6 @@
 .bio {
   background-color: #ffffff;
   padding: 20px;
+  width:300px
+
 }
