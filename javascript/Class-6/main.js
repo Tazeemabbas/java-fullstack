@@ -1,7 +1,9 @@
 let word = true;
 
-if(word) {
+if(word){
     console.log("This is true");
-}   else {
+}else if(word === false){
     console.log("This is false");
+}   else{
+    console.log("This is not a boolean");
 }
