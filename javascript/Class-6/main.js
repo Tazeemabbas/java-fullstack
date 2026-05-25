@@ -1,3 +1,6 @@
-let word = false;
+let a = 10, b = 20;
 
-word ? console.log("This is true") : console.log("This is false");
+let minValue ;
+
+minValue = a > b ? b : a;
+console.log(minValue);
