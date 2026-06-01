@@ -7,6 +7,6 @@
   color: red;
 }
 
-.main-container p{
-  color: rgb(64, 0, 255);
+.main-container>p{
+  color: rgb(0, 255, 30);
 }
