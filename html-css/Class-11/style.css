@@ -1,4 +1,8 @@
-.section-description::first-letter{
-  font-size: 70px;
+li::first-letter{
+  font-size: 40px;
   font-weight: bold;
+}
+
+.section-heading:hover{
+  color: red;
 }
