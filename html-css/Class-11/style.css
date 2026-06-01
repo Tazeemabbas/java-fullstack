@@ -1,8 +1,12 @@
-li::first-letter{
+/* li::first-letter{
   font-size: 40px;
   font-weight: bold;
-}
+} */
 
 .section-heading:hover{
   color: red;
+}
+
+.main-container p{
+  color: rgb(64, 0, 255);
 }
